@@ -2,7 +2,7 @@ package org.launchcode;
 
 import java.util.ArrayList;
 
-public class ArrayListPractice {
+public class ArrayListPractice1 {
     public static void main(String[] args){
         ArrayList<Integer>nums = new ArrayList<>();
         nums.add(8);
